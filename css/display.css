@@ -1,0 +1,26 @@
+.exemple {
+  color: #ffffff;
+  text-align: center;
+}
+
+/*Colocar os elementos dispersos na tela e por largura e altura*/
+.exemple-item {
+  display: block;
+  width: 33.333%;
+  height: 150px;
+}
+
+.exemple-item_first {
+  background-color: #faa116;
+}
+
+.exemple-item_second {
+  background-color: #57c7c3;
+  margin-left: auto;
+}
+
+.exemple-item_third {
+  background-color: #3b97d3;
+  margin-left: auto;
+  margin-right: auto;
+}
